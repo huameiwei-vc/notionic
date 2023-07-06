@@ -2,7 +2,7 @@ const BLOG = {
   title: 'Plum Flavor VC',
   author: 'VC',
   email: 'plumflavorvc@gmail.com',
-  link: 'https://huamei.eu.org',
+  link: 'https://www.huamei.eu.org/',
   newsletter: 'Plum Flavor VC',
   description: '一位热爱研究与书写记录的，设计师和作者',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
