@@ -31,12 +31,7 @@ const NewsletterHero = ({ blockMap }) => {
             subPageTitle={null}
           />
           <Social />
-          <h2 className='text-xl pt-8 pb-4 font-light text-gray-500 dark:text-day'>
-            {t.HERO.NEWSLETTER.SUBSCRIPTION_HEAD}
-          </h2>
-          <div className='flex flex-col sm:flex-row sm:justify-center gap-4'>
-        
-          </div>
+         
         </div>
       
         <div className='w-1/5'>
