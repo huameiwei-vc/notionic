@@ -34,9 +34,7 @@ const NewsletterHero = ({ blockMap }) => {
          
         </div>
       
-        <div className='w-1/5'>
-          <NewspaperIcon className='object-cover object-center text-gray-500 dark:text-gray-300' />
-        </div>
+        
       </div>
     </>
   )
