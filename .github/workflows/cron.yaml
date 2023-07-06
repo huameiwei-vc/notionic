@@ -8,4 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Call Vercel Hook
-        run: curl -X POST "https://api.vercel.com/v1/integrations/deploy/prj_xxxxxxxxx/ooooooooo?buildCache=false"
+        run: curl -X POST "https://api.vercel.com/v1/integrations/deploy/prj_v7YP1HsRl1OHYt3ag23jCjOr71jM/z8D8aSz9ip?buildCache=false"
