@@ -4,7 +4,7 @@ const BLOG = {
   email: 'plumflavorvc@gmail.com',
   link: 'https://www.huamei.eu.org',
   newsletter: 'Plum Flavor VC',
-  description: '一位热爱研究与书写记录的，设计师和作者',
+  description: '',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
